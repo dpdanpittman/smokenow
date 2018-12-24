@@ -2,7 +2,7 @@
 
 **Smokenow is a clone of SteemPower.com an application developed by _@penguinpablo_**
 
-Smokenow allows users the following functionality using the smoke api
+Smokenow provides users with the following functionality using the smoke api
 
 - Keep track of anyone who has upvoted your post
 - Keep track of the percentage of upvote given
